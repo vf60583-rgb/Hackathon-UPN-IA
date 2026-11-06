@@ -1,0 +1,19 @@
+# Equipo 5
+
+- **Integrantes:**
+- VICTOR MANUEL FAJARDO ROJAS
+- YAMILA GUZMAN MELAGREJO
+- MIRIAN MELISSA ESPINO VASQUEZ
+- **Descripción del proyecto:**
+- C·IA·M —cuyo nombre rinde homenaje a la voz mochica Ciam («Vida» o «Estar vivo»)— es una plataforma web táctica y predictiva diseñada para coordinar, priorizar y evacuar oportunamente a poblaciones vulnerables en riberas críticas de Piura y Tumbes frente a inundaciones y huaicos por el Fenómeno El Niño. El sistema transforma la gestión reactiva de emergencias en un modelo de logística anticipada mediante la articulación público-privada y el uso de modelos de Inteligencia Artificial.
+- **Instrucciones de ejecución:**
+- Para ejecutar y evaluar de forma integral todos los módulos del prototipo C·IA·M, sigue esta secuencia operativa directamente desde el navegador web:
+-  Acceso al entorno: Abre el enlace del prototipo en cualquier navegador moderno (Chrome, Edge o Safari) desde tu laptop o smartphone, sin necesidad de descargas ni instalaciones previas.
+-  Módulo Ciudadanos (Empadronamiento y Pase QR): Activa el interruptor de Modo Offline para verificar la captura de datos a cero conectividad. Ingresa un predio ribereño de prueba, marca la presencia de integrantes vulnerables (niños, adultos mayores, discapacidad) y la condición de no poseer vehículo propio. Al guardar, comprueba cómo el algoritmo en el dispositivo clasifica el hogar en Prioridad Nivel 1 y genera el Pase Oficial de Evacuación con su token QR único, asignando de antemano placa vehicular y refugio seguro.
+-   Módulo Empresas (Articulación RSE): Ingresa al panel de recursos aliados para visualizar el inventario en tiempo real de flotas de transporte solidario (vans y buses con sus cupos disponibles) y la disponibilidad de habitaciones en hoteles ubicados en cotas altas fuera de la zona de inundación.
+-    Vista Conductor (Validación de Abordaje en Terreno): Entra a la interfaz del transportista, donde se visualiza la unidad asignada, la capacidad libre y la dirección del punto de recojo familiar. Pulsa el botón Escanear QR con Cámara para abrir la cámara web del celular, simula la lectura del Pase Familiar y verifica el descuento automático de asientos disponibles en el sistema.
+-    Panel COER (Centro de Mando, Matching IA y Despacho): Accede al panel de control municipal para observar el mapa geoespacial con las capas oficiales de los 31 puntos críticos de la ANA. Haz clic en Ejecutar emparejamiento para correr el motor de optimización combinatoria (VRP-TW) que agrupa familias en lotes y traza rutas seguras esquivando zonas anegadas. Finalmente, presiona Aprobar despacho para simular la validación de mando bajo gobernanza Human-in-the-Loop y la activación coordinada de la alerta dual (SMS celular y sirenas comunitarias).
+- **Enlace a demo:**
+-  https://app.base44.com/apps/6aeac595eee4a0f1eeee904a/editor/preview
+- https://ciam-alert-sync.base44.app
+- 
